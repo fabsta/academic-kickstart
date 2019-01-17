@@ -35,5 +35,8 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
+
+# Link to Google Scholar profile: <a href="https://scholar.google.de/citations?user=fFY_ejsAAAAJ&hl=de>here</a>
+
 +++
 

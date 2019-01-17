@@ -19,11 +19,11 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Scientist"
+  company = "Boehringer Ingelheim"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Vienna"
+  date_start = "2017-03-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -34,12 +34,41 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Big data consultant"
+  company = "IBM"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Munich"
+  date_start = "2015-09-01"
+  date_end = "2017-02-28"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+
+[[experience]]
+  title = "Senior scientist"
+  company = "European Bioinformatics Institute"
+  company_url = ""
+  location = "Cambridge"
+  date_start = "2014-07-01"
+  date_end = "2015-08-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Senior scientist"
+  company = "Wellcome Trust Sanger Institute"
+  company_url = ""
+  location = "Cambridge"
+  date_start = "2014-06-30"
+  date_end = "2012-01-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+
+[[experience]]
+  title = "Postdoc"
+  company = "Science for life laboratory"
+  company_url = ""
+  location = "Sweden"
+  date_start = "2010-09-01"
+  date_end = "2011-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
