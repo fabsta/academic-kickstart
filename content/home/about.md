@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Biologgy",
+    "Computational Biology",
     "Drug discovery",
-    "Digital pathology"
+    "AI for social good"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,13 +31,10 @@ weight = 5
   course = "BSc in Bioinformatics"
   institution = "Georg August University Goettingen"
   year = 2005
- 
+
 +++
 
 # Biography
 
-Fabian Schreiber is a data scientist.
-His research interest includes bioinformatics, Computer vision applications of Deep Learning, and Model interpretability
-
-
-
+I am a data scientist and bioinformatician by training.
+His research interest includes bioinformatics, AI for drug discovery, precision medicine, computer vision applications of Deep Learning and model interpretability.
