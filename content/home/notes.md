@@ -23,14 +23,20 @@ Data science/programming
 <li><a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47">Unix, docker, git  (etc)</a></li></ul>
 AI
 <ul>
-<li><a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">AI notes, courses</a>:
+Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>:
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-ml-course">Fast.ai ML course</a>,
-<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG course</a>
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG course</a>,
+(<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#drawings">drawings</a>),
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#python-machine-learning---sebastian-raschka">Sebastian Raschka</a>,
 
 
 
-</li>
+
+
+
+
+
 <li><a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">AI use cases</a></li>
 <li><a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5">Deep learning</a></li>
 <li><a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">AI in drug discovery</a></li>
