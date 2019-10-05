@@ -16,7 +16,7 @@ weight = 6
 +++
 
 Data science/programming
-<ul><li>Data science code: 
+<ul><li>Data science code:
 <a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#jupyter-notebooks">jupyter notebooks</a>,
 <a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#data-wrangling-cleaning-up">data wrangling</a>,
 <a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#performance">performance</a>
@@ -30,15 +30,19 @@ Data science/programming
 </li></ul>
 AI
 <ul>
-<li>Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course </a>
+<li>Course notes:
+
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course </a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks">notebooks</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notes">notes</a>),
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-ml-course">Fast.ai ML course</a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks-1">notebooks</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks-1">notes</a>),
+
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG DL course</a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#drawings">drawings</a>),
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-ml-coursera-course">Andrew NG ML course</a>,
+
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#python-machine-learning---sebastian-raschka">Sebastian Raschka</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#data-science-books">Data science book</a>
 </li>
