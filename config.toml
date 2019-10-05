@@ -60,10 +60,10 @@ enableGitInfo = false
   organizations = [ { name = "Boehringer Ingelheim", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "fab.schreiber@gmail.com"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = """
   Monday 10:00 to 13:00<br>
@@ -301,29 +301,34 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Notes"
+  url = "#notes"
   weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Posts"
+  url = "#posts"
+  weight = 6
+
+[[menu.main]]
+  name = "CV"
+  url = "#experience"
   weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 6
+
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
