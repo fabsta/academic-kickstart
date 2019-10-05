@@ -26,8 +26,7 @@ Data science/programming
 </li></ul>
 AI
 <ul>
-<li>Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>
-<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course (v3)</a>
+<li>Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course </a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks">notebooks</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notes">notes</a>),
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-ml-course">Fast.ai ML course</a>
@@ -46,14 +45,28 @@ AI
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#convolutions-explained-1d-2d-3d">Autoencoder</a>,
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#reinforcement-learning">Reinforcement learning</a>
 </li>
-<li><a href="https://gist.github.com/fabsta/e87801aacfe7524b74cdae31d536f670">Kaggle competitions notes</a></li>
-<li><a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">Participated kaggle competitions</a></li>
+<li>Kaggle: <a href="https://gist.github.com/fabsta/e87801aacfe7524b74cdae31d536f670">Competitions notes</a>, <a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">Participated competitions</a></li>
 </ul>
 
 Science
 <ul>
 <li><a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">AI in drug discovery</a></li>
-<li><a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae">Medicinal chemistry</a></li>
+<li>Medicinal chemistry:
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pre-regulatory-medicine"pre-regulatory medicine</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#protein-structure">protein structure</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pharmacokinetics">pharmacokinetics</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#enzymes">enzymes</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#receptors">receptors</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#metabolism">metabolism</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#lead-optimization-1">lead optimization</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#admet-1">admet</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#admet-assays-explained">admet assays explained</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#lipophilicity">lipophilicity</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pka">pka</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#solubility">solubility</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#permeability">permeability</a>, 
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#metabolic-stability">metabolic stability</a>
+</li>
 <li><a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">Organic chemistry</a></li>
 <li><a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf">Organic chemistry course (khan academy)</a></li>
 </ul>
