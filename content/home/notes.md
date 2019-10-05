@@ -16,12 +16,16 @@ weight = 6
 +++
 
 Data science/programming
-<ul><li><a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb">Data science</a></li>
+<ul><li>Data science code: 
+<a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#jupyter-notebooks">jupyter notebooks</a>,
+<a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#data-wrangling-cleaning-up">data wrangling</a>,
+<a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#performance">performance</a>
+</li>
 <li><a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79">Data science</a></li>
 <li><a href="https://gist.github.com/fabsta/86fa94221789e15239c7b888c3ec3c8c">Python cheat sheet</a></li>
 <li><a href="https://gist.github.com/fabsta/9a1efa91f14381bf0bbe3b07605d74fa">Python plotting</a></li>
 <li>Other: <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#unix">Unix</a>,
-<a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">Git</a>,
+<a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">docker</a>,
 <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#git">Git</a>
 </li></ul>
 AI
@@ -50,7 +54,7 @@ AI
 
 Science
 <ul>
-<li><a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">AI in drug discovery</a></li>
+<li>AI in drug discovery: <a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">link</a></li>
 <li>Medicinal chemistry:
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pre-regulatory-medicine">pre-regulatory medicine</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#protein-structure">protein structure</a>,
@@ -74,7 +78,7 @@ Science
 <a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#functional-groups">functional-groups</a>
 <a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#stereochemistry">stereochemistry</a>
 </li>
-<li><a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">Organic chemistry</a></li>
+<li>Organic chemistry: <a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">link</a></li>
 </ul>
 Other
 <ul>
