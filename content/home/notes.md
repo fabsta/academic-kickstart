@@ -20,7 +20,10 @@ Data science/programming
 <li><a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79">Data science</a></li>
 <li><a href="https://gist.github.com/fabsta/86fa94221789e15239c7b888c3ec3c8c">Python cheat sheet</a></li>
 <li><a href="https://gist.github.com/fabsta/9a1efa91f14381bf0bbe3b07605d74fa">Python plotting</a></li>
-<li><a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47">Unix, docker, git  (etc)</a></li></ul>
+<li>Other: <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#unix">Unix</a>,
+<a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">Git</a>,
+<a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#git">Git</a>
+</li></ul>
 AI
 <ul>
 <li>Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>
