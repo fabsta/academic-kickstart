@@ -52,7 +52,7 @@ Science
 <ul>
 <li><a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">AI in drug discovery</a></li>
 <li>Medicinal chemistry:
-<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pre-regulatory-medicine"pre-regulatory medicine</a>,
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pre-regulatory-medicine">pre-regulatory medicine</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#protein-structure">protein structure</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pharmacokinetics">pharmacokinetics</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#enzymes">enzymes</a>,
@@ -64,11 +64,17 @@ Science
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#lipophilicity">lipophilicity</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#pka">pka</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#solubility">solubility</a>,
-<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#permeability">permeability</a>, 
+<a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#permeability">permeability</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#metabolic-stability">metabolic stability</a>
 </li>
+<li>Organic chemistry course (khan academy):
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">structure-and-bonding</a>
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#electronegativity">electronegativity</a>
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#alkanes-cycloalkanes-and-functional-groups">alkanes-cycloalkanes-and-functional-groups</a>
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#functional-groups">functional-groups</a>
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#stereochemistry">stereochemistry</a>
+</li>
 <li><a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">Organic chemistry</a></li>
-<li><a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf">Organic chemistry course (khan academy)</a></li>
 </ul>
 Other
 <ul>
