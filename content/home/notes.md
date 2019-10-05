@@ -16,19 +16,21 @@ weight = 6
 +++
 
 Data science/programming
-<ul>
-
-<li><a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb">Data science</a></li>
+<ul><li><a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb">Data science</a></li>
 <li><a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79">Data science</a></li>
 <li><a href="https://gist.github.com/fabsta/86fa94221789e15239c7b888c3ec3c8c">Python cheat sheet</a></li>
 <li><a href="https://gist.github.com/fabsta/9a1efa91f14381bf0bbe3b07605d74fa">Python plotting</a></li>
-<li><a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47">Unix, docker, git  (etc)</a></li>
-
-
-</ul>
+<li><a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47">Unix, docker, git  (etc)</a></li></ul>
 AI
 <ul>
-<li><a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">AI courses</a></li>
+<li><a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">AI notes, courses</a>:
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course</a>,
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-ml-course">Fast.ai ML course</a>,
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG course</a>
+
+
+
+</li>
 <li><a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">AI use cases</a></li>
 <li><a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5">Deep learning</a></li>
 <li><a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">AI in drug discovery</a></li>
