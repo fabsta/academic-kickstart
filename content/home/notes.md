@@ -23,12 +23,18 @@ Data science/programming
 <li><a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47">Unix, docker, git  (etc)</a></li></ul>
 AI
 <ul>
-Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>:
-<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course</a>,
+Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>
+Fast.ai DL course(<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">link</a>),
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-ml-course">Fast.ai ML course</a>,
-<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG course</a>,
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG DL course</a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#drawings">drawings</a>),
+
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-ml-coursera-course">Andrew NG ML course</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#python-machine-learning---sebastian-raschka">Sebastian Raschka</a>,
+
+
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#data-science-books">Data science book</a>,
+
 
 
 
