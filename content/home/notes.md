@@ -23,7 +23,7 @@ Data science/programming
 <li><a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47">Unix, docker, git  (etc)</a></li></ul>
 AI
 <ul>
-Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>
+<li>Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24">Overview</a>
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course (v3)</a> (
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks">notebooks</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notes">notes</a>),
@@ -35,13 +35,13 @@ Course notes: <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-ml-coursera-course">Andrew NG ML course</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#python-machine-learning---sebastian-raschka">Sebastian Raschka</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#data-science-books">Data science book</a>
-
-<a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5">Deep learning</a>:
+</li>
+<li>Deep learning:
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#history">history</a>,
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#convolutional-layer">conv layer</a>,
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#convolutions-explained-1d-2d-3d">convs explained</a>,
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#convolutions-explained-1d-2d-3d">Autoencoder</a>
-
+</li>
 <li><a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">AI in drug discovery</a></li>
 <li><a href="https://gist.github.com/fabsta/e87801aacfe7524b74cdae31d536f670">Kaggle competitions notes</a></li>
 <li><a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">Participated kaggle competitions</a></li>
