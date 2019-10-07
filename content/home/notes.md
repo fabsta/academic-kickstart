@@ -81,6 +81,14 @@ Science
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#permeability">permeability</a>,
 <a href="https://gist.github.com/fabsta/3e144effecf8c89078447d1082cb13ae#metabolic-stability">metabolic stability</a>
 </li>
+
+<li>Biology:
+<a href="https://gist.github.com/aec5f7fbda0c8c6ea857b2b8449ba848">miRNA</a>,
+<a href="https://gist.github.com/fabsta/aec5f7fbda0c8c6ea857b2b8449ba848#sequencing">Sequencing</a>
+</li>
+
+
+
 <li>Organic chemistry course (khan academy):
 <a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">structure-and-bonding</a>
 <a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#electronegativity">electronegativity</a>
