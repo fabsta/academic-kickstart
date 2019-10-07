@@ -16,22 +16,27 @@ weight = 6
 +++
 
 Data science/programming
-<ul><li>Data science code:
-<a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#jupyter-notebooks">jupyter notebooks</a>,
-<a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#data-wrangling-cleaning-up">data wrangling</a>,
-<a href="https://gist.github.com/fabsta/1d2573293678441e8db97bb0ebbfb9cb#performance">performance</a>
+
+<ul><li>Data science code: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>,<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#merge-join">Merge/join</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dates">Dates</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#missing-data">Missing data</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#manipulations">manipulations</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dataframe-iterate-rows">iterate rows</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#concat-vs-append">concat-vs-append</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#parallel-data-structures">parallel data structures</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#jupyter-notebooks">jupyter notebooks</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#code-snippets">jup code snippets</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">testing</a>
 </li>
-<li><a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79">Data science</a></li>
-<li><a href="https://gist.github.com/fabsta/86fa94221789e15239c7b888c3ec3c8c">Python cheat sheet</a></li>
-<li><a href="https://gist.github.com/fabsta/9a1efa91f14381bf0bbe3b07605d74fa">Python plotting</a></li>
 <li>Other: <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#unix">Unix</a>,
 <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">docker</a>,
 <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#git">Git</a>
 </li></ul>
+
 AI
 <ul>
 <li>Course notes:
-
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#fastai-dl-course-v3">Fast.ai DL course </a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks">notebooks</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notes">notes</a>),
