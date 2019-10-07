@@ -17,20 +17,21 @@ weight = 6
 
 Data science/programming
 
-<ul><li>Data science code: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>,<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
+<ul><li>Data science code: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>, <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#merge-join">Merge/join</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dates">Dates</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#missing-data">Missing data</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#manipulations">manipulations</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dataframe-iterate-rows">iterate rows</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#concat-vs-append">concat-vs-append</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#parallel-data-structures">parallel data structures</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#jupyter-notebooks">jupyter notebooks</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#code-snippets">jup code snippets</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">testing</a>
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#manipulations">Manipulations</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#method-chaining">Method chaining</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dataframe-iterate-rows">Iterate rows</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#concat-vs-append">Concat vs append</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#parallel-data-structures">Parallel data structures</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#jupyter-notebooks">Jupyter notebooks</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#code-snippets">Jupyter code snippets</a>,
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">Yesting</a>
 </li>
 <li>Other: <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#unix">Unix</a>,
-<a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">docker</a>,
+<a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">Docker</a>,
 <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#git">Git</a>
 </li></ul>
 
