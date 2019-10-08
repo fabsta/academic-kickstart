@@ -17,7 +17,7 @@ weight = 6
 
 Data science/programming
 
-<ul><li>python data science cheat sheet: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>, <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
+<ul><li>Python data science cheat sheet: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>, <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#merge-join">Merge/join</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dates">Dates</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#missing-data">Missing data</a>,
@@ -31,7 +31,7 @@ Data science/programming
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">Testing</a>
 </li>
 
-<li>python regular cheat sheet:
+<li>Python regular cheat sheet:
 <a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#primitive-datatypes-and-operators">Primitive datatypes and operators</a>,
 <a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#strings">Strings</a>,
 <a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#lists">Lists</a>,
@@ -125,4 +125,14 @@ Other
 <li><a href="https://gist.github.com/fabsta/94c8ac6f8d35f10bdc2a0217ee93b66d">Krav maga</a></li>
 <li><a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7">Facts</a></li>
 <li><a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7">Books</a></li>
+</ul>
+
+<ul>Big data
+<li>Best practices: <a href="https://gist.github.com/b6ff112316b53d1abb775c39c6a567a9">HBase</a>,
+<a href="https://gist.github.com/487a04056dc33299fb4d14c5ce6a45fc">Kafka</a>
+</li>
+<li><a href="https://gist.github.com/fabsta/2edb45826db817bb07b757656197d624">Hadoop security</a></li>
+
+
+
 </ul>
