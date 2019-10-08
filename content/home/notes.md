@@ -7,8 +7,8 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Notes"
-subtitle = "Notes on data science, deep learning and more"
+title = "Notes & code snippets"
+subtitle = "Notes & code snippets on data science, deep learning, big data and more"
 
 # Order that this section will appear in.
 weight = 6
@@ -120,6 +120,7 @@ Science
 </li>
 <li>Organic chemistry: <a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">link</a></li>
 </ul>
+
 Other
 <ul>
 <li><a href="https://gist.github.com/fabsta/94c8ac6f8d35f10bdc2a0217ee93b66d">Krav maga</a></li>
@@ -127,12 +128,10 @@ Other
 <li><a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7">Books</a></li>
 </ul>
 
-<ul>Big data
+Big data
+<ul>
 <li>Best practices: <a href="https://gist.github.com/b6ff112316b53d1abb775c39c6a567a9">HBase</a>,
 <a href="https://gist.github.com/487a04056dc33299fb4d14c5ce6a45fc">Kafka</a>
 </li>
 <li><a href="https://gist.github.com/fabsta/2edb45826db817bb07b757656197d624">Hadoop security</a></li>
-
-
-
 </ul>
