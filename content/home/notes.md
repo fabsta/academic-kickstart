@@ -17,7 +17,7 @@ weight = 6
 
 Data science/programming
 
-<ul><li>Data science code: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>, <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
+<ul><li>python data science cheat sheet: <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#input-output">Input/Output</a>, <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#data-wrangling">Merge/join</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#merge-join">Merge/join</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#dates">Dates</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#missing-data">Missing data</a>,
@@ -30,6 +30,28 @@ Data science/programming
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#code-snippets">Jupyter code snippets</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">Yesting</a>
 </li>
+
+<li>python cheat sheet:
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#primitive-datatypes-and-operators">primitive-datatypes-and-operators</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#strings">strings</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#lists">lists</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#tuples">tuples</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#dictionary">dictionary</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#sets">sets</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#control-flow">control-flow</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#exceptions">exceptions</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#functions">functions</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#classes">classes</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#modules">modules</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#generators">generators</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#decorators">decorators</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#files">files</a>,
+</li>
+
+
+<li>R cheat sheet: <a href="https://gist.github.com/fabsta/b64542bd90a2816c036b61a70643feec">gist link</a>
+</li>
+
 <li>Other: <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#unix">Unix</a>,
 <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#docker">Docker</a>,
 <a href="https://gist.github.com/fabsta/1acb17d190b8fb503a3e90c7728f6f47#git">Git</a>
