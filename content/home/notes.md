@@ -28,24 +28,24 @@ Data science/programming
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#parallel-data-structures">Parallel data structures</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#jupyter-notebooks">Jupyter notebooks</a>,
 <a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#code-snippets">Jupyter code snippets</a>,
-<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">Yesting</a>
+<a href="https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79#testing">Testing</a>
 </li>
 
-<li>python cheat sheet:
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#primitive-datatypes-and-operators">primitive-datatypes-and-operators</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#strings">strings</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#lists">lists</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#tuples">tuples</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#dictionary">dictionary</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#sets">sets</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#control-flow">control-flow</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#exceptions">exceptions</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#functions">functions</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#classes">classes</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#modules">modules</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#generators">generators</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#decorators">decorators</a>,
-<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#files">files</a>,
+<li>python regular cheat sheet:
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#primitive-datatypes-and-operators">Primitive datatypes and operators</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#strings">Strings</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#lists">Lists</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#tuples">Tuples</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#dictionary">Dictionary</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#sets">Sets</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#control-flow">Control flow</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#exceptions">Exceptions</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#functions">Functions</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#classes">Classes</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#modules">Modules</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#generators">Generators</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#decorators">Decorators</a>,
+<a href="https://gist.github.com/fabsta/7f8da2e5706ee60c332d0682dc4032ed#files">Files</a>
 </li>
 
 
