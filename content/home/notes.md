@@ -135,3 +135,8 @@ Big data
 </li>
 <li><a href="https://gist.github.com/fabsta/2edb45826db817bb07b757656197d624">Hadoop security</a></li>
 </ul>
+
+Statistics
+<ul>
+<li><a href="https://gist.github.com/fabsta/0b897c47406b299b84a867fecbb309a7">Notes</a></li>
+</ul>
