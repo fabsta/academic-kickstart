@@ -109,7 +109,9 @@ Science
 <a href="https://gist.github.com/fabsta/aec5f7fbda0c8c6ea857b2b8449ba848#sequencing">Sequencing</a>
 </li>
 
-
+<li>Clinical trials
+<a href="https://gist.github.com/fabsta/4af99eb8db14105f3af5558eab9457df">Clinical trial notes</a>
+</li>
 
 <li>Organic chemistry course (khan academy):
 <a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">structure-and-bonding</a>
