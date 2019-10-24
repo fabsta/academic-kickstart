@@ -109,7 +109,7 @@ Science
 <a href="https://gist.github.com/fabsta/aec5f7fbda0c8c6ea857b2b8449ba848#sequencing">Sequencing</a>
 </li>
 
-<li>Clinical trials
+<li>Clinical trials:
 <a href="https://gist.github.com/fabsta/4af99eb8db14105f3af5558eab9457df">Clinical trial notes</a>
 </li>
 
@@ -127,7 +127,9 @@ Other
 <ul>
 <li><a href="https://gist.github.com/fabsta/94c8ac6f8d35f10bdc2a0217ee93b66d">Krav maga</a></li>
 <li><a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7">Facts</a></li>
-<li><a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7">Books</a></li>
+<li><a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7">Books</a>:
+<a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#brain-rules-for-baby---john-medina">Brain rules for baby</a>
+</li>
 </ul>
 
 Big data
