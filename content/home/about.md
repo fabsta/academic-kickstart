@@ -37,4 +37,4 @@ weight = 5
 # Biography
 
 I am a data scientist and bioinformatician by training.
-His research interest includes bioinformatics, AI for drug discovery, precision medicine, computer vision applications of Deep Learning and model interpretability.
+My research interest includes bioinformatics, AI for drug discovery, precision medicine, computer vision applications of Deep Learning and model interpretability.
