@@ -70,9 +70,11 @@ AI
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-coursera-dl-course">Andrew NG DL course</a>
 (<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#drawings">drawings</a>),
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#andrew-ng-ml-coursera-course">Andrew NG ML course</a>,
-
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#python-machine-learning---sebastian-raschka">Sebastian Raschka</a>,
 <a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#data-science-books">Data science book</a>
+
+<a href="https://gist.github.com/fabsta/07ec84bb85a43f811dd0a8ce09d9bd24#notebooks-3">Jupyter use cases</a>
+
 </li>
 <li>Deep learning:
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#history">History</a>,
