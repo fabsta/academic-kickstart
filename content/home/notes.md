@@ -116,11 +116,11 @@ Science
 </li>
 
 <li>Organic chemistry course (khan academy):
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">structure-and-bonding</a>
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#electronegativity">electronegativity</a>
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#alkanes-cycloalkanes-and-functional-groups">alkanes-cycloalkanes-and-functional-groups</a>
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#functional-groups">functional-groups</a>
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#stereochemistry">stereochemistry</a>
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">structure-and-bonding</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#electronegativity">electronegativity</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#alkanes-cycloalkanes-and-functional-groups">alkanes-cycloalkanes-and-functional-groups</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#functional-groups">functional-groups</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#stereochemistry">stereochemistry</a>,
 </li>
 <li>Organic chemistry: <a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">link</a></li>
 </ul>
@@ -128,7 +128,12 @@ Science
 Other
 <ul>
 <li><a href="https://gist.github.com/fabsta/94c8ac6f8d35f10bdc2a0217ee93b66d">Krav maga</a></li>
-<li><a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7">Facts</a></li>
+<li><a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7">Facts</a>:
+<a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7#climate-change">Climate change</a>,
+<a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7#vaccines">Vaccines</a>,
+<a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7#nutrition">Nutrition</a>,
+<a href="https://gist.github.com/fabsta/b2031fcf221a63d0e60d1b31d5026cd7#gmo">GMO</a>
+</li>
 <li><a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7">Books</a>:
 <a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#brain-rules-for-baby---john-medina">Brain rules for baby</a>
 </li>
