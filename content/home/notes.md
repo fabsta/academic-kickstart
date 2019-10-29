@@ -86,7 +86,12 @@ AI
 <li>Kaggle: <a href="https://gist.github.com/fabsta/e87801aacfe7524b74cdae31d536f670">Competitions notes</a>, <a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">Participated competitions</a></li>
 </ul>
 
-Science
+Statistics
+<ul>
+<li><a href="https://gist.github.com/fabsta/0b897c47406b299b84a867fecbb309a7">Notes</a></li>
+</ul>
+
+Biomedical Science
 <ul>
 <li>AI in drug discovery: <a href="https://gist.github.com/fabsta/0b20935c3c066a2ad788d83f2a66ceff">link</a></li>
 <li>Medicinal chemistry:
@@ -116,11 +121,11 @@ Science
 </li>
 
 <li>Organic chemistry course (khan academy):
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">structure-and-bonding</a>,
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#electronegativity">electronegativity</a>,
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#alkanes-cycloalkanes-and-functional-groups">alkanes-cycloalkanes-and-functional-groups</a>,
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#functional-groups">functional-groups</a>,
-<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#stereochemistry">stereochemistry</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#structure-and-bonding">Structure and bonding</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#electronegativity">Electronegativity</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#alkanes-cycloalkanes-and-functional-groups">Alkanes  cycloalkanes and functional-groups</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#functional-groups">Functional groups</a>,
+<a href="https://gist.github.com/fabsta/7fc9ac1f4a48258cde570a5a3d9064bf#stereochemistry">Stereochemistry</a>,
 </li>
 <li>Organic chemistry: <a href="https://gist.github.com/fabsta/b870a657182b13adaab7718aa53417d2">link</a></li>
 </ul>
@@ -145,9 +150,4 @@ Big data
 <a href="https://gist.github.com/487a04056dc33299fb4d14c5ce6a45fc">Kafka</a>
 </li>
 <li><a href="https://gist.github.com/fabsta/2edb45826db817bb07b757656197d624">Hadoop security</a></li>
-</ul>
-
-Statistics
-<ul>
-<li><a href="https://gist.github.com/fabsta/0b897c47406b299b84a867fecbb309a7">Notes</a></li>
 </ul>
