@@ -141,8 +141,8 @@ Other
 </li>
 <li><a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7">Books</a>:
 <a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#brain-rules-for-baby---john-medina">Brain rules for baby</a>,
-<a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#no-drama-discipline---daniel-j-siegel>No drama discipline</a>,
-<a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#thinking-fast-and-slow---daniel-kahnemann">Thinking fast and slow</a>, 
+<a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#no-drama-discipline---daniel-j-siegel">No drama discipline</a>,
+<a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#thinking-fast-and-slow---daniel-kahnemann">Thinking fast and slow</a>,
 <a href="https://gist.github.com/fabsta/5f94b199ee9cb95960633879113855f7#factfullness>Factfullness</a>
 </li>
 </ul>
