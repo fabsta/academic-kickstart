@@ -83,6 +83,12 @@ AI
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#convolutions-explained-1d-2d-3d">Autoencoder</a>,
 <a href="https://gist.github.com/fabsta/cb0f216982a4ed01ea60a060955d95c5#reinforcement-learning">Reinforcement learning</a>
 </li>
+
+
+<li>NLP:
+<a href="https://gist.github.com/fabsta/16f9f5a6032a470bedd2ed269cbf1708">NER</a>,
+<a href="https://gist.github.com/fabsta/16f9f5a6032a470bedd2ed269cbf1708#word-embeddings">word embeddings</a>,
+</li>
 <li>Kaggle: <a href="https://gist.github.com/fabsta/e87801aacfe7524b74cdae31d536f670">Competitions notes</a>, <a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">Participated competitions</a></li>
 </ul>
 
