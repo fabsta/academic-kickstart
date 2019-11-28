@@ -95,7 +95,7 @@ AI
 </li>
 
 <li>Collection of DS articles:
-<a href="https://gist.github.com/fabsta/b4ff72187742e9baf1a644c6603df304>link</a>
+<a href="https://gist.github.com/fabsta/b4ff72187742e9baf1a644c6603df304">link</a>
 </li>
 
 <li>Kaggle: <a href="https://gist.github.com/fabsta/e87801aacfe7524b74cdae31d536f670">Competitions notes</a>, <a href="https://gist.github.com/fabsta/33773f38e007b0f1853dad7840b12515">Participated competitions</a></li>
